@@ -1,5 +1,4 @@
 # pablobellon.ch
 
-Source code of the portfolio pablobellon.ch.
+Source code of pablobellon.ch.
 
-Build with webpack. 
